@@ -1,6 +1,6 @@
 # Alura | Imersão Dev
 
-Repositório para armazenar projeto construído durante a Imersão da Alura [Alura](https://www.alura.com.br)
+Repositório para armazenar projeto construído durante a Imersão da [Alura](https://www.alura.com.br)
 
 
 | Aulas | Resumos |
