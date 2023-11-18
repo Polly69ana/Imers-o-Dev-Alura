@@ -10,3 +10,4 @@ Repositório para armazenar projeto construído durante a Imersão da [Alura](ht
 |Desafio aula 2 - Mentalista | [Resumo](https://codepen.io/Polly69ana/pen/PoVKvQm?editors=0010)
 |Desafio aula 3 - AluraFlix | [Resumo](https://codepen.io/Polly69ana/pen/VwgrEJL?editors=0010)
 |Desafio aula 4 - AluraFlix 2 | [Resumo](https://codepen.io/Polly69ana/pen/abXVrZG?editors=0100)
+|Desafio aula 5 - Tabela de Classificação | [Resumo](https://codepen.io/Polly69ana/pen/MWLrBOP?editors=1000)
